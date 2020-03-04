@@ -1,6 +1,6 @@
 # Void-Space
 
-KALAIDOS.C
+KALEIDOS.C
 Prints random colorful patterns on screen.
 
 bingo.cpp
